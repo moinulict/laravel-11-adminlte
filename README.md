@@ -3,17 +3,8 @@
 [![License](https://img.shields.io/github/license/moinulict/laravel-11-adminlte)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/moinulict/laravel-11-adminlte?style=social)](https://github.com/moinulict/laravel-11-adminlte/stargazers)
 
-A **Laravel 11.31** boilerplate integrated with the **AdminLTE 3.2** free template, providing a solid foundation for building admin dashboards and backend interfaces without relying on Vite or npm for asset management.
+A **Laravel 11.31** boilerplate integrated with the **AdminLTE v4.0.0-beta2** free template, providing a solid foundation for building admin dashboards and backend interfaces without relying on Vite or npm for asset management.
 
-## 🚀 **Features**
-
-- **Laravel 11.31:** Utilizes the latest Laravel framework version, ensuring access to all recent features and improvements.
-- **AdminLTE 3.2 Integration:** Seamlessly integrated with AdminLTE 3.2, a responsive and customizable admin dashboard template based on Bootstrap 4.
-- **Authentication Scaffolding:** Integrated with **Laravel Breeze** for quick and secure user authentication setup.
-- **Direct Asset Management:** Manages CSS, JavaScript, and image assets directly without using Vite or npm, ensuring straightforward asset handling.
-- **Modular Structure:** Organized and scalable codebase, making it easy to maintain and extend.
-- **Blade Layouts and Partials:** Utilizes Laravel Blade templating for clean and reusable UI components like navbar, sidebar, and footer.
-- **Responsive Design:** Ensures that your admin panel looks great on all devices, from desktops to mobile phones.
 
 ## 📦 **Installation**
 
